@@ -1,2 +1,2 @@
 # GPTCrosswordSolver
-Train a GPT model to create and answer Telegraph cryptic questions
+Train a GPT model to create and answer Daily Telegraph cryptic questions
